@@ -1,7 +1,7 @@
-说明：java技术栈积累，目的是达成未来3年的目标<br>
+#### 说明：java技术栈积累，目的是达成未来3年的目标<br>
 20180531晚@yajunren 第一次编辑<br>
 
-##### 想法由来：<br>
+#### 想法由来：<br>
 一位资深程序员给Java初学者建议：https://www.cnblogs.com/huaxingtianxia/p/5724093.html<br>
 google十年技术栈：https://blog.csdn.net/sdmxdzb/article/details/71191592<br><br>
 
@@ -14,11 +14,11 @@ google十年技术栈：https://blog.csdn.net/sdmxdzb/article/details/71191592<b
 4、流行框架：spring、springmvc、mybatis，属于会用阶段<br>
 
 ### 第二年：（拔高阶段：每部分在一个月左右）<br>
- ##### 第一部分：基础深入<br>
+ #### 第一部分：基础深入<br>
   1、JVM原理、高并发<br>
   2、设计模式<br>
   3、servlet、spring源码？<br>
- ##### 第二部分：多元化<br>
+ #### 第二部分：多元化<br>
   1、缓存<br>
   2、安全<br>
   3、ORM<br>
