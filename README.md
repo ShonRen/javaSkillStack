@@ -9,8 +9,8 @@ google十年技术栈：https://blog.csdn.net/sdmxdzb/article/details/71191592<b
 
 ### 第一年：基础<br>
 1、计算机技术：计算机系统、算法、编译原理（属于基础的基础，固然重要，但是也枯燥，打算用到再学习。所以时间上不做要求）<br>
-2、前端技术：HTML/CSS/JS及其框架有一点基础，Servlet/JSP（J2EE）、jdbc以及Mysql（数据库）属于会用的阶段，目前来讲如果要学习类似于spring框架的话需要重新回炉。<br>
-3、Java基础：IO、多线程、socket通信，属于一知半解<br>
+2、前端技术：HTML/CSS/JS及其框架有一点基础。<br>
+3、Java基础：IO、多线程、socket通信，属于一知半解，Servlet/JSP（J2EE）、jdbc以及Mysql（数据库）属于会用的阶段，目前来讲如果要学习类似于spring框架的话需要重新回炉。<br>
 4、流行框架：spring、springmvc、mybatis，属于会用阶段<br>
 
 ### 第二年：（拔高阶段：每部分在一个月左右）<br>
