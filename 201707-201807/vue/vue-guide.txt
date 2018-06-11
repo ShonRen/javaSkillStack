@@ -1,0 +1,34 @@
+1、安装ndoe.js（注意：版本不能高于8.0.0，安装这个版本就可以）<br>
+下载.msi文件，双击运行<br>
+进入nodejs目录，输入<br>
+node --version检查是否安装成功<br>
+
+2、全局安装vue-cli<br>
+管理员进入命令窗口，输入<br>
+npm config set registry https://registry.npm.taobao.org <br>
+npm install --global vue-cli<br>
+安装后，检查是否安装成功<br>
+vue -V<br>
+
+3、使用vue建一个项目“my-project”  （注意项目名不能有大写）<br>
+vue init webpack my-project<br>
+一直回车<br>
+Y<br>
+在Use ESLint to line your code?这一步可以选择N，因为这是检查代码格式的，比较严格<br>
+
+4、安装项目所需依赖，进入项目中<br>
+npm install<br>
+完成后，会发现项目目录下多出一个node_modules文件夹，里面就是vue-cli创建的一个<br>
+基于 webpack 的 vue.js 项目。<br>
+
+5、启动项目<br>
+npm run dev<br>
+
+6、修改端口<br>
+config>index.js<br>
+17行：port: 1080,<br>
+
+7、退出监听，可以直接Ctrl+C，选择Y。<br>
+
+
+
